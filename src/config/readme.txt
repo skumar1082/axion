@@ -1,0 +1,1 @@
+To Build the deployment files dynamcally to any environment(dev, qa, stage, prod) and get the resorces based on this environment config files

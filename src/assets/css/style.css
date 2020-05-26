@@ -1,0 +1,67 @@
+.container {
+  padding-top: 4.2rem;
+}
+
+body {
+  padding-top:1.2rem;
+  padding-bottom:2.2rem;
+  font-family: Arial, Helvetica, sans-serif; 
+  background-color: '#e1e6e2' !important;
+}
+
+.bg-navbar {
+  background-color: '#CCCCCC' !important;
+}
+  
+.container-fluid-nav div {
+  display: flex;
+  justify-content: space-around;
+}
+
+.myform {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 1rem;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 100%;
+  pointer-events: auto;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid rgba(0,0,0,.2);
+  border-radius: 0.6rem;
+  outline: 0;
+  max-width: 700px;
+}
+
+.tx-tfm {
+  text-transform:uppercase;
+}
+
+.mybtn {
+  border-radius:50px;
+  cursor: pointer !important;
+}
+
+form .error {
+  color: #ff0000;
+}
+  
+.user-data{
+  padding: .5rem;
+  color: #fff;
+}
+
+.logout {
+  padding-left: 20px;
+}
+
+.logout:hover {
+  color: #fff !important;
+}
+
+.brand-text {
+  float: left;
+  padding-top: 10px;
+}
